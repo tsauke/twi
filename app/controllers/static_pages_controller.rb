@@ -9,4 +9,3 @@ class StaticPagesController < ApplicationController
   end  
     
 end
-sssssssssssssssssssssss
